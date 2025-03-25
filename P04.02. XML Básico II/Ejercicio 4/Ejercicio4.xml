@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 20/03/2025
+Ejercicio: Ejercicio 4
+-->
+
+<!-- Gestión de informacion de los alumnos de un m -->
+<asignatura>
+    <nombre>Lenguajes de Marcas</nombre>
+    <horas_semanales>4</horas_semanales>
+    <caracter>obligatorio</caracter>
+    <fecha_inicia>15 de septiembre de 2023</fecha_inicia>
+    <fecha_fin>22 de junio de 2024</fecha_fin>
+    <alumnos>
+        <alumno>
+            <nombre>Ana Fernández Gutiérrez</nombre>
+            <dni>51623487V</dni>
+            <telefono>666544566</telefono>
+            <email>anafernandez@gmail.com</email>
+            <direccion>C/ Amatista, 14, 28905 Getafe (Madrid)</direccion>
+            <faltas_asistencia></faltas_asistencia>
+            <nota></nota>
+        </alumno>
+        <alumno>
+            <nombre>Carlos López Sánchez</nombre>
+            <dni>52369874B</dni>
+            <telefono>666455477</telefono>
+            <email>carloslopez@gmail.com</email>
+            <direccion>s C/ Ópalo, 15, 28905 Getafe (Madrid)</direccion>
+            <faltas_asistencia></faltas_asistencia>
+            <nota>apto</nota>
+        </alumno>
+    </alumnos>
+</asignatura>

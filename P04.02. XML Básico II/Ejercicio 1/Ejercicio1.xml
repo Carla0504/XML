@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 20/03/2025
+Ejercicio: Ejercicio 1
+-->
+
+<!-- Lista de marcadores de páginas webs -->
+<marcadores>
+    <marcador>
+        <nombre>W3Schools</nombre>
+        <descripcion>Tutoriales de informática.</descripcion>
+        <URL>https://www.w3schools.com/</URL>
+    </marcador>
+
+    <marcador>
+        <nombre>Wikipedia</nombre>
+        <descripcion>La enciclopedia libre.</descripcion>
+        <URL>https://www.wikipedia.org/</URL>
+    </marcador>
+
+    <marcador>
+        <nombre>W3C</nombre>
+        <descripcion>World Wide Web Consortium.</descripcion>
+        <URL>https://www.w3.org/</URL>
+    </marcador>
+</marcadores>

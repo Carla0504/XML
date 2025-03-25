@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 20/03/2025
+Ejercicio: Ejercicio 2
+-->
+
+<!-- Información de 2 equipos de fútbol -->
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador/>
+        <jugadorres>
+            <jugador posicion="defensa">
+                <nombre>Éder Militão</nombre>
+                <nacionalidad>Brasileña</nacionalidad>
+            </jugador>
+            <jugador posicion="medio">
+                <nombre>Luka Modrić</nombre>
+                <nacionalidad>Croata</nacionalidad>
+            </jugador>
+        </jugadorres>
+    </equipo>
+
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador/>
+        <jugadorres>
+            <jugador posicion="portero">
+                <nombre>Marc-André ter Stegen</nombre>
+                <nacionalidad>Alemana</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Robert Lewandowski</nombre>
+                <nacionalidad>Polaca</nacionalidad>
+            </jugador>
+        </jugadorres>
+    </equipo>
+</equipos>

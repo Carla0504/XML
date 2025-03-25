@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 20/03/2025
+Ejercicio: Ejercicio 3
+-->
+
+<!-- Información receta de cocina -->
+<receta>
+    <nombre>Sopa de cebolla</nombre>
+    <comensales>4</comensales>
+    <ingredientes>
+        <ingrediente>1 kg de cebollas</ingrediente>
+        <ingrediente>2 litros de caldo de carne</ingrediente>
+        <ingrediente>100 gr de mantequilla</ingrediente>
+        <ingrediente>1 cucharada de harina</ingrediente>
+        <ingrediente>100 gr de queso emmental</ingrediente>
+        <ingrediente>Pan tostado en rebanadas</ingrediente>
+        <ingrediente>Tomillo</ingrediente>
+        <ingrediente>1 hoja de laurel</ingrediente>
+        <ingrediente>Pimienta</ingrediente>
+    </ingredientes>
+    <procesos>
+        <proceso>Pelar y partir las cebollas en rodajas finas.</proceso>
+        <proceso>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</proceso>
+        <proceso>Añadir la harina sin dejar de remover.</proceso>
+        <proceso>Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</proceso>
+        <proceso>Dejar cocer a fuego lento durante unos 15 minutos.</proceso>
+        <proceso>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</proceso>
+    </procesos>
+</receta>
