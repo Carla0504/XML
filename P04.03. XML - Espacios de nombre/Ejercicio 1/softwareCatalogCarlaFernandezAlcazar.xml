@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 25/03/2025
+Ejercicio: Ejercicio 1
+-->
+
+<!-- Catálogo de software informático -->
+<catalogo>
+    <os:software>
+        <nombre>Microsoft Windows 11</nombre>
+        <version>Windows 11</version>
+        <desarrollador>Microsoft</desarrollador>
+        <url>https://www.microsoft.com/es-es/windows/windows-11</url>
+    </os:software>
+
+    <os:software>
+        <nombre>Ubuntu 22.04 LTS</nombre>
+        <version>22.04 LTS</version>
+        <desarrollador>Canonical Ltd.</desarrollador>
+        <url>https://ubuntu.com/download/desktop</url>
+    </os:software>
+
+    <os:software>
+        <nombre>macOS Monterey</nombre>
+        <version>12.0</version>
+        <desarrollador>Apple Inc.</desarrollador>
+        <url>https://www.apple.com/es/macos/monterey/</url>
+    </os:software>
+
+    <office:software>
+        <nombre>Microsoft Office 2021</nombre>
+        <version>2021</version>
+        <desarrollador>Microsoft</desarrollador>
+        <url>https://www.microsoft.com/es-es/microsoft-365/get-started-with-office-2021</url>
+    </office:software>
+
+    <office:software>
+        <nombre>LibreOffice 7.5</nombre>
+        <version>7.5</version>
+        <desarrollador>The Document Foundation</desarrollador>
+        <url>https://es.libreoffice.org/descarga/libreoffice/</url>
+    </office:software>
+
+    <office:software>
+        <nombre>Apache OpenOffice 4.1.14</nombre>
+        <version>4.1.14</version>
+        <desarrollador>Apache Software Foundation</desarrollador>
+        <url>https://www.openoffice.org/es/descargar/</url>
+    </office:software>
+</catalogo>

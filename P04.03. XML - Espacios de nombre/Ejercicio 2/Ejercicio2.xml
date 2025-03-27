@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Carla Fernández Alcázar
+Curso: DAW1
+Fecha: 25/03/2025
+Ejercicio: Ejercicio 2
+-->
+
+<!-- Tabla de libros -->
+<html>
+    <head>
+        <title>Book Review</title>
+    </head>
+    <body>
+        <div class="bookreview">
+            <h2>Introducción a XML</h2>
+            <table border="1">
+                <tr align="center">
+                    <th>Author</th>
+                    <th>Price</th>
+                    <th>Pages</th>
+                    <th>Date</th>
+                </tr>
+                <tr align="left">
+                    <td author="Simon St. Laurent">Simon St. Laurent</td>
+                    <td price="31.98">31.98</td>
+                    <td pages="352">352</td>
+                    <td date="1998/01">1998/01</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
